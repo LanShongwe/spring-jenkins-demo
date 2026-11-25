@@ -13,7 +13,7 @@
 
     <groupId>com.example</groupId>
     <artifactId>spring-jenkins-demo</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
     <name>spring-jenkins-demo</name>
     <description>Modern Spring Boot application for Jenkins CI/CD learning</description>
